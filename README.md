@@ -4,9 +4,13 @@ A computer vision project for real-time vehicle detection, multi-object tracking
 
 ## 🎥 Demo
 
+![Real-Time Vehicle Detection and Tracking Demo](vehicle_tracking_demo.gif)
+
 A demonstration of the project showing real-time vehicle detection, tracking IDs, and line-crossing counting.
 
-> Full demonstration video will be shared on LinkedIn.
+### ▶️ Full Demo
+
+[🎬 View / Download Full Demo Video](https://github.com/nandhu-prakash/real-time-vehicle-detection-tracking/releases/tag/v1.0.0)
 
 ## ✨ Features
 
